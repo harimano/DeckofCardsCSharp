@@ -1,0 +1,11 @@
+E:\PROGRAMMING COURSE\code_BootCamp\C#\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.deps.json
+E:\PROGRAMMING COURSE\code_BootCamp\C#\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.runtimeconfig.json
+E:\PROGRAMMING COURSE\code_BootCamp\C#\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.runtimeconfig.dev.json
+E:\PROGRAMMING COURSE\code_BootCamp\C#\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.dll
+E:\PROGRAMMING COURSE\code_BootCamp\C#\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.pdb
+E:\PROGRAMMING COURSE\code_BootCamp\C#\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.csprojAssemblyReference.cache
+E:\PROGRAMMING COURSE\code_BootCamp\C#\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING COURSE\code_BootCamp\C#\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.AssemblyInfoInputs.cache
+E:\PROGRAMMING COURSE\code_BootCamp\C#\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.AssemblyInfo.cs
+E:\PROGRAMMING COURSE\code_BootCamp\C#\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.dll
+E:\PROGRAMMING COURSE\code_BootCamp\C#\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.pdb
